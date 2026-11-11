@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/library-amadeus-avatar.png" alt="A contemplative profile and a full-length masked figure in a dark, imagined library" width="100%">
+  <img src="assets/library-amadeus-avatar-refined.png" alt="A contemplative profile and a full-length masked figure in a dark, imagined library" width="100%">
 </p>
 
 ### Forward Deployed Engineer · Applied AI & product · Senior full-stack
