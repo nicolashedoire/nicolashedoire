@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/knowledge-architecture.png" alt="An engineer working in a library-inspired workspace" width="100%">
+  <img src="assets/library-workspace-v2.png" alt="An engineer working in a library-inspired workspace" width="100%">
 </p>
 
 ### Forward Deployed Engineer · Applied AI & product · Senior full-stack
