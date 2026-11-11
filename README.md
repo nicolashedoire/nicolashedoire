@@ -16,6 +16,14 @@ The projects below show how I explore that work in practice — from inspectable
 
 ## Agents, tools & applied AI
 
+### [Sidecraft](https://github.com/nicolashedoire/sidecraft) · Watch software take shape
+
+<a href="https://github.com/nicolashedoire/sidecraft"><img src="assets/projects/sidecraft.png" alt="Illustration of live coding and session replay in Sidecraft" width="320"></a>
+
+A macOS AI coding companion that writes and revises code visibly in VS Code. Its Swift agent engine supports local Ollama models and a separate Claude/MCP workflow. Recorded Claude/MCP sessions can be replayed as a structured development film, including file changes, commands and execution traces.
+
+<sub>Private repository · access limited to authorized collaborators.</sub>
+
 ### [SDK AI Agents](https://github.com/nicolashedoire/sdk-ai-agents) · Making an agent's reasoning inspectable
 
 <a href="https://github.com/nicolashedoire/sdk-ai-agents"><img src="https://raw.githubusercontent.com/nicolashedoire/sdk-ai-agents/main/docs/public/images/banner.svg" alt="SDK AI Agents project banner" width="320"></a>
