@@ -91,7 +91,7 @@ A tool presented for analysing PCAP captures, inferring protocol structure, dete
 
 <a href="https://github.com/nicolashedoire/devenir-devops"><img src="assets/projects/devenir-devops.png" alt="Illustration of a development-to-production path" width="320"></a>
 
-The French-language companion to my book follows a TaskBoard application through ten practical milestones: local development, Docker, CI, Kubernetes, observability, security and more, with guides and exercises.
+The French-language companion to my book follows a TaskBoard application through ten practical milestones: local development, Docker, CI, Kubernetes, observability, security and more, with guides and exercises. [Find the book on Amazon ↗](https://www.amazon.fr/dp/B0HKYFCRBK)
 
 ### [Pagecodec Lab](https://github.com/nicolashedoire/pagecodec-lab) · Testing ideas about compression and memory
 
