@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/library-amadeus-balanced.png" alt="A contemplative profile and a full-length masked figure in a dark, imagined library" width="100%">
+  <img src="assets/library-amadeus-adjusted.png" alt="A contemplative profile and a full-length masked figure in a dark, imagined library" width="100%">
 </p>
 
 ### Forward Deployed Engineer · Applied AI & product · Senior full-stack
@@ -89,7 +89,7 @@ A tool presented for analysing PCAP captures, inferring protocol structure, dete
 
 ### [Devenir DevOps](https://github.com/nicolashedoire/devenir-devops) · Following one application towards production
 
-<a href="https://github.com/nicolashedoire/devenir-devops"><img src="assets/projects/devenir-devops.png" alt="Illustration of a development-to-production path" width="320"></a>
+<a href="https://www.amazon.fr/dp/B0HKYFCRBK"><img src="https://images-na.ssl-images-amazon.com/images/P/B0HKYFCRBK.01.LZZZZZZZ.jpg" alt="Cover of Devenir DevOps by Nicolas Hedoire" width="160"></a>
 
 The French-language companion to my book follows a TaskBoard application through ten practical milestones: local development, Docker, CI, Kubernetes, observability, security and more, with guides and exercises. [Find the book on Amazon ↗](https://www.amazon.fr/dp/B0HKYFCRBK)
 
