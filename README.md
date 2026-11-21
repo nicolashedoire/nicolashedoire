@@ -2,13 +2,69 @@
   <img src="assets/library-amadeus-adjusted.png" alt="A contemplative profile and a full-length masked figure in a dark, imagined library" width="100%">
 </p>
 
-### Forward Deployed Engineer · Applied AI & product · Senior full-stack
+[Français](#français) · [English](#english)
 
-**AI agents · RAG · MCP · Product engineering**
+## Français
 
-I work where a real-world problem meets the systems needed to solve it: understanding the use case, designing the product, building the software and making AI useful to the people who work with it.
+Il paraît que l’on peut comprendre quelqu’un en regardant ce qu’il construit. Vous pouvez essayer.
 
-The projects below show how I explore that work in practice — from inspectable agents and human-reviewed workflows to interactive learning, local AI and systems experiments.
+Ce profil contient des traces : des idées devenues du code, des expériences qui ont pris une direction inattendue, des projets dont le nom ne raconte qu’une partie de l’histoire. Certains sont faciles à comprendre. D’autres demandent de rester un peu plus longtemps, d’ouvrir un fichier supplémentaire, de remarquer un détail que l’on aurait pu ignorer.
+
+Je vous laisse choisir par où commencer.
+
+J’aime le moment où une idée existe à peine. Quand elle tient dans quelques mots, un croquis ou une note écrite trop tard dans la nuit. À ce stade, rien ne garantit qu’elle fonctionnera. Pourtant, quelque chose donne envie de poursuivre. Alors je cherche un premier point d’appui. Une fonction, une interface, une réponse à une question encore mal formulée. Puis une autre pièce trouve sa place, et ce qui semblait abstrait commence à prendre forme.
+
+C’est souvent là que les choses deviennent intéressantes.
+
+Je garde une certaine affection pour les questions qui résistent. Celles auxquelles une recherche rapide ne répond pas. Celles qui reviennent pendant que l’on fait autre chose et qui finissent par réclamer leur propre expérience. Il arrive qu’une piste mène à une impasse. Il arrive aussi qu’une erreur révèle un passage que je n’aurais jamais pensé chercher.
+
+Vous trouverez probablement un peu de tout cela ici.
+
+Les dépôts publics montrent une partie du travail. Ils permettent de voir les choix, les corrections, parfois les hésitations. Un historique de commits possède sa propre manière de raconter les événements : une tentative, un retour en arrière, quelques lignes remplacées, puis soudain quelque chose qui fonctionne. À le parcourir attentivement, on découvre parfois une histoire différente de celle annoncée dans le README.
+
+J’aime cette idée qu’un projet puisse se lire à plusieurs profondeurs. Que l’on puisse simplement l’utiliser, ou prendre le temps de regarder comment il tient debout. Qu’un détail discret récompense la curiosité de celui qui s’est arrêté pour l’examiner.
+
+Quant à la suite, je préfère lui laisser un peu d’ombre.
+
+Il reste des dossiers sans description, des notes qui attendent leur heure et des intuitions auxquelles je reviens régulièrement. Certaines finiront ici. D’autres changeront tellement en chemin que je serai peut-être le seul à reconnaître leur point de départ.
+
+Ce profil continuera donc d’évoluer, parfois par petites touches, parfois avec l’apparition d’une chose que rien ne semblait annoncer.
+
+En attendant, les fichiers sont là. Les premières portes sont ouvertes.
+
+Si vous cherchez à savoir ce qui se prépare, commencez par regarder ce qui a changé.
+
+---
+
+## English
+
+They say you can understand someone by looking at what they build. You can try.
+
+This profile contains traces: ideas turned into code, experiments that took an unexpected direction, projects whose names tell only part of the story. Some are easy to understand. Others ask you to stay a little longer, open one more file, notice a detail you might otherwise have overlooked.
+
+I’ll let you choose where to begin.
+
+I like the moment when an idea barely exists. When it fits into a few words, a sketch, or a note written too late at night. At that stage, there is no guarantee it will work. Yet something makes you want to keep going. So I look for a first foothold. A function, an interface, an answer to a question that hasn’t quite taken shape. Then another piece falls into place, and what seemed abstract begins to take form.
+
+That is often where things get interesting.
+
+I have a certain fondness for questions that resist easy answers. The ones a quick search cannot resolve. The ones that return while you are doing something else and eventually demand an experiment of their own. Sometimes a trail leads to a dead end. Sometimes a mistake reveals a passage I would never have thought to look for.
+
+You will probably find a little of all that here.
+
+Public repositories reveal part of the work. They show the choices, the corrections, sometimes the hesitation. A commit history has its own way of telling a story: an attempt, a step back, a few lines replaced, and then suddenly something works. Read closely, and you may discover a different story from the one presented in the README.
+
+I like the idea that a project can be read on several levels. That you can simply use it, or take the time to see how it holds together. That a quiet detail might reward the curiosity of someone who stopped to look.
+
+As for what comes next, I prefer to leave a little of it in the shadows.
+
+There are still folders without descriptions, notes waiting for their moment, and intuitions I return to regularly. Some will end up here. Others will change so much along the way that I may be the only one who recognizes where they began.
+
+This profile will keep evolving, sometimes through small changes, sometimes with the arrival of something that nothing seemed to foreshadow.
+
+In the meantime, the files are here. The first doors are open.
+
+If you want to know what is taking shape, start by looking at what has changed.
 
 [**LinkedIn ↗**](https://www.linkedin.com/in/nicolas-hedoire-1734775b/) &nbsp; · &nbsp; [**All repositories ↗**](https://github.com/nicolashedoire?tab=repositories)
 
